@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+.OTP{
+    padding: 25px;
+    width: 300px;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #4d5964;
+    font-family: "Robot", sans-serif;
+    text-align: center;
+}
